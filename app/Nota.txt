@@ -1,0 +1,8 @@
+1. Cree mi entorno virtual
+	-virtualenv -p python3 env
+2. Activar entorno virtual
+	-. env/Scripts/activate  ya dentro del entorno virtual
+2. Instale flask en mi entorno virtual
+    - pip install flask
+3. Instale Python MySQL Connector, es una bibliote para conectar Python con MySQL
+    - pip install mysql-connector-python
